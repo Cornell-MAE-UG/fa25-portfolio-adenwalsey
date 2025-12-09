@@ -14,8 +14,8 @@ As part of MAE 4272: Fluids and Heat Transfer Laboratory course, my team was tas
 
 We built a MATLAB-based aerodynamic and structural model to iterate on twist distribution, chord taper, and predicted torque. To account for overshoot, we optimized the system to perform ideally at 1500RPM. Using NACA 4412 baseline geometry as a starting point, we computed aerodynamic torque, root bending stress, and free-spin RPM. The model revealed that free-spin stress exceedance was the likely failure mode, so our design iterations focused on reducing root bending moment while improving power generation efficiency. The final tuned design reflected adjustments to twist and taper that balanced aerodynamic loading with structural integrity.
 
-![Photo of matlab stress plot]({{ "/assets/images/4272stressplot.jpg" | relative_url }}){: style="width: 550px"}
-![Photo of matlab chord twist plots]({{ "/assets/images/4272chordtwistplots.jpg" | relative_url }}){: style="width: 550px"}
+![Photo of matlab stress plot]({{ "/assets/images/4272stressplot.jpg" | relative_url }}){: style="width: 100%"}
+![Photo of matlab chord twist plots]({{ "/assets/images/4272chordtwistplots.jpg" | relative_url }}){: style="width: 100%"}
 <br>
 <br>
 
@@ -24,7 +24,7 @@ We built a MATLAB-based aerodynamic and structural model to iterate on twist dis
 
 We tested the blade across four wind tunnel frequencies (8–11 Hz; corresponds to 4.6-6.3m/s). For each test, we increased the torque brake voltage in increments until the rotor stalled, collecting RPM and electrical power data at each step. The resulting power–RPM curves showed that the blade consistently produced measurable power across all frequencies, achieving a peak of **1.33 W at 1664 RPM** at a wind speed of 6.3 m/s. Across all tests, the average maximum power was **0.712 W** at approximately **1557 RPM**, demonstrating good agreement between design predictions and real-world performance. 
 
-![Photo of power curves]({{ "/assets/images/4272powercurves.jpg" | relative_url }}){: style="width: 550px"}
+![Photo of power curves]({{ "/assets/images/4272powercurves.jpg" | relative_url }}){: style="width: 100%"}
 <br>
 <br>
 
@@ -42,9 +42,9 @@ I focused on developing and refining the MATLAB design model, tuning twist and t
 
 ### Figures
 
-![Photo of blade CAD]({{ "/assets/images/4272bladecad.jpg" | relative_url }}){: style="width: 550px"}
+![Photo of blade CAD]({{ "/assets/images/4272bladecad.jpg" | relative_url }}){: style="width: 100%"}
 
-![Photo of hub CAD]({{ "/assets/images/4272hubcad.jpg" | relative_url }}){: style="width: 450px"}
+![Photo of hub CAD]({{ "/assets/images/4272hubcad.jpg" | relative_url }}){: style="width: 75%"}
 
 
 
