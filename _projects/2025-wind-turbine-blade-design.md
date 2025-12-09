@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Wind Turbine Blade Design
+title: Turbine Blade Design
 description: Advanced CAD Project
 technologies: [Autodesk Fusion, MATLAB]
 image: /assets/images/radio-machine-cad.jpg
