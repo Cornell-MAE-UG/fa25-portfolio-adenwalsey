@@ -8,57 +8,56 @@ image: /assets/images/spaceship-design.jpg
 
 ### Overview
 
-<br>
+
 The tragedy of the Boeing 737 MAX crashes is not simply a story of technical malfunction, but a profound case study in ethical failure. As engineers, we are bound by professional codes that prioritize public safety and welfare above all else. However, an analysis of the development, certification, and aftermath of the 737 MAX reveals a disturbing pattern where commercial pressures consistently outweighed safety requirements. By examining the material facts, applying the ASME Code of Ethics, and understanding the organizational constraints involved, we can see how the prioritization of cost and schedule over safety compromised the integrity of the engineering profession.
-<br>
 
 ### Material Facts and Technical Oversight
 
-<br>
+
 The technical root of the failure is in the Maneuvering Characteristics Augmentation System (MCAS) of the 737 MAX. Designed to compensate for the aerodynamic changes of the new engines, the system suffered from a critical design flaw: it relied on input from a single Angle of Attack (AoA) sensor, which created a "single point of failure" vulnerability. When that single sensor fed faulty data to the system, the MCAS would repeatedly pitch the stabilizer nose-down, which was a condition that pilots were not equipped to counteract because the system’s behavior and very existence had been omitted from flight manuals.
-<br>
+
 Furthermore, Boeing treated MCAS as an "incremental" change rather than a novel one to minimize certification hurdles. Critical safety features, such as the "AoA Disagree" alert, were inactive on most aircraft, a fact that both Boeing and the FAA misunderstood due to poor communication and software configuration.
-<br>
+
 
 ### The Core Ethical Conflict: Cost vs. Safety
 
-<br>
+
 The central ethical dilemma in this case can be framed as a conflict between ASME Canon 1, which states that engineers "shall hold paramount the safety, health and welfare of the public," and ASME Canon 4, which requires engineers to act as "faithful agents" for their employers.
-<br>
+
 In the development of the 737 MAX, Canon 4 (employer loyalty) appears to have wrongly replaced Canon 1. Evidence suggests that Boeing was driven by a need to compete with Airbus, leading to decisions that prioritized speed and cost-cutting over rigorous safety. For example, avoiding pilot simulator training was a major financial objective, and consequently, Boeing minimized the significance of MCAS to avoid the "novel" classification that would force long costly retraining requirements. By failing to institute necessary retraining and by removing MCAS information from manuals, the company violated ASME Canon 7 (truthful communication) and Canon 9, knowingly placing pilots and passengers at risk to secure a competitive advantage.
-<br>
+
 
 ### Organizational Constraints and Individual Agency
 
-<br>
+
 While the "ideal" ethical action would have been for certification engineers to refuse to sign off on a system with a single point of failure, real-world constraints made this difficult. Identifying these constraints is crucial to understanding why the failure occurred.
-<br>
+
 Organizational Pressure: The corporate culture at Boeing created an environment where engineers faced job security risks for slowing down production. Engineers were pressured to work quickly, often with limited influence to provide feedback to senior management.
-<br>
+
 Information Silos: Subsystem engineers often lacked "total visibility" of the project. An engineer working on the AoA sensor integration might not have known how MCAS would interpret that data, creating a "limited influence" constraint where no single individual felt empowered to stop the process.
-<br>
+
 Regulatory Ambiguity: The delegation of authority from the FAA to Boeing blurred the lines of oversight. Senior engineers and pilots, such as Mark Forkner, communicated directly with regulators to downplay the system's risks, creating an ambiguity that lower-level engineers could not easily navigate.
-<br>
+
 Failure of Accountability
 Boeing’s response to the crashes further highlighted a divergence between "compliance" and true "ethical responsibility." Following the accidents, leadership initially blamed pilot inexperience and "findings" rather than admitting to the fundamental design flaws.
-<br>
+
 - Defining Accountability: While Boeing may have defined accountability as meeting minimum regulatory requirements (compliance), the stakeholders, specifically the victims' families, defined it as moral responsibility and honesty.
-<br>
+
 - Defining Transparency: Similarly, while Boeing viewed transparency as supplying technically accurate (but minimal) data to regulators, true ethical transparency required proactively sharing safety-critical details with pilots and the public.
 By failing to ground the fleet immediately and by withholding information about the MCAS redesign from the FAA, Boeing violated the public trust and the fundamental engineering duty to admit errors.
-<br>
+
 
 ### Prevention Strategies
 
-<br>
+
 To prevent such a tragedy from recurring, changes must be made at the individual, organizational, and systemic levels.
 - Individual Level: Engineers need enhanced training that specifically addresses how to navigate conflicts between management pressure and safety protocols. They must be encouraged to prioritize the "big picture" of safety over compartmentalized tasks.
 - Organizational Level: Companies must restructure to promote a "flatter hierarchy" where feedback from technical staff can reach executive leadership without fear of retribution.
 - Systemic Level: Regulatory bodies like the FAA must reclaim independence. The practice of delegating critical certification tasks to the manufacturer must be reformed to ensure rigorous, unbiased oversight.
-<br> 
+
 
 ### Conclusion
 
-<br>
+
 The Boeing 737 MAX case serves as a stark reminder that engineering is not just about technical competence; it is about moral courage. When the hierarchy of ethical canons is inverted, placing employer loyalty above public safety, the consequences are catastrophic. Moving forward, the engineering community must enforce the absolute precedence of ASME Canon 1: safety is always the number one requirement, and it is a corner that can never be cut.
 
