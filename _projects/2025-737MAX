@@ -1,12 +1,14 @@
 ---
 layout: project
 title: 737 MAX Case Study
-description: Just a spaceship that I designed
-image: /assets/images/spaceship-design.jpg
+description: Advanced CAD Project
+technologies: [Autodesk Fusion, MATLAB]
+image: /assets/images/4272bladedesign.jpg 
 ---
 
-
-### Overview
+As part of MAE 4272: Fluids and Heat Transfer Laboratory course, my team was tasked with designing a wind turbine blade capable of maximizing power output under fixed wind tunnel operating conditions. We were constrained by a 6-inch blade length, a prescribed hub geometry, and a material flexural strength limit of 55 MPa for Accura PLA. The design also needed to remain structurally stable below the system’s maximum safe rotational speed of ~2000 RPM. Our goal was to optimize aerodynamic performance while ensuring that the blade would not enter unsafe free-spin conditions during operation. 
+<br>
+<br>
 
 
 The tragedy of the Boeing 737 MAX crashes is not simply a story of technical malfunction, but a profound case study in ethical failure. As engineers, we are bound by professional codes that prioritize public safety and welfare above all else. However, an analysis of the development, certification, and aftermath of the 737 MAX reveals a disturbing pattern where commercial pressures consistently outweighed safety requirements. By examining the material facts, applying the ASME Code of Ethics, and understanding the organizational constraints involved, we can see how the prioritization of cost and schedule over safety compromised the integrity of the engineering profession.
@@ -60,4 +62,5 @@ To prevent such a tragedy from recurring, changes must be made at the individual
 
 
 The Boeing 737 MAX case serves as a stark reminder that engineering is not just about technical competence; it is about moral courage. When the hierarchy of ethical canons is inverted, placing employer loyalty above public safety, the consequences are catastrophic. Moving forward, the engineering community must enforce the absolute precedence of ASME Canon 1: safety is always the number one requirement, and it is a corner that can never be cut.
+
 
