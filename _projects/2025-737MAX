@@ -2,17 +2,18 @@
 layout: project
 title: 737 MAX Case Study
 description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
 image: /assets/images/spaceship-design.jpg
 ---
 
 
 ### Overview
+
 <br>
 The tragedy of the Boeing 737 MAX crashes is not simply a story of technical malfunction, but a profound case study in ethical failure. As engineers, we are bound by professional codes that prioritize public safety and welfare above all else. However, an analysis of the development, certification, and aftermath of the 737 MAX reveals a disturbing pattern where commercial pressures consistently outweighed safety requirements. By examining the material facts, applying the ASME Code of Ethics, and understanding the organizational constraints involved, we can see how the prioritization of cost and schedule over safety compromised the integrity of the engineering profession.
 <br>
 
 ### Material Facts and Technical Oversight
+
 <br>
 The technical root of the failure is in the Maneuvering Characteristics Augmentation System (MCAS) of the 737 MAX. Designed to compensate for the aerodynamic changes of the new engines, the system suffered from a critical design flaw: it relied on input from a single Angle of Attack (AoA) sensor, which created a "single point of failure" vulnerability. When that single sensor fed faulty data to the system, the MCAS would repeatedly pitch the stabilizer nose-down, which was a condition that pilots were not equipped to counteract because the system’s behavior and very existence had been omitted from flight manuals.
 <br>
@@ -20,6 +21,7 @@ Furthermore, Boeing treated MCAS as an "incremental" change rather than a novel 
 <br>
 
 ### The Core Ethical Conflict: Cost vs. Safety
+
 <br>
 The central ethical dilemma in this case can be framed as a conflict between ASME Canon 1, which states that engineers "shall hold paramount the safety, health and welfare of the public," and ASME Canon 4, which requires engineers to act as "faithful agents" for their employers.
 <br>
@@ -27,6 +29,7 @@ In the development of the 737 MAX, Canon 4 (employer loyalty) appears to have wr
 <br>
 
 ### Organizational Constraints and Individual Agency
+
 <br>
 While the "ideal" ethical action would have been for certification engineers to refuse to sign off on a system with a single point of failure, real-world constraints made this difficult. Identifying these constraints is crucial to understanding why the failure occurred.
 <br>
@@ -46,6 +49,7 @@ By failing to ground the fleet immediately and by withholding information about 
 <br>
 
 ### Prevention Strategies
+
 <br>
 To prevent such a tragedy from recurring, changes must be made at the individual, organizational, and systemic levels.
 - Individual Level: Engineers need enhanced training that specifically addresses how to navigate conflicts between management pressure and safety protocols. They must be encouraged to prioritize the "big picture" of safety over compartmentalized tasks.
@@ -54,6 +58,7 @@ To prevent such a tragedy from recurring, changes must be made at the individual
 <br> 
 
 ### Conclusion
+
 <br>
 The Boeing 737 MAX case serves as a stark reminder that engineering is not just about technical competence; it is about moral courage. When the hierarchy of ethical canons is inverted, placing employer loyalty above public safety, the consequences are catastrophic. Moving forward, the engineering community must enforce the absolute precedence of ASME Canon 1: safety is always the number one requirement, and it is a corner that can never be cut.
 
