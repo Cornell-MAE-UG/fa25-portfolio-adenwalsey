@@ -1,25 +1,25 @@
 ---
 layout: project
-title: Bicycle Trainer Fluid Mechanical Dissection
+title: Bicycle Trainer Dissection
 description: Class project with Graphs
 technologies: [MATLAB, python]
 image: /assets/images/function-graph.png
 ---
 
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-
-This is how I solved the problem:
-
-```python
-    some code = 10;
-    plot();
-```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
-
+Objective: 
+-	Dissect a system with a fluid mechanical component and understand how it works based on concepts learned from Fluid Mechanics course at Cornell University.
+Outcomes:
+-	Dissected and analyzed fluid mechanics of the impeller in a stationary bicycle trainer housed in silicone-based oil.
+-	Calculated drag force, Reynolds number, and mechanical advantage of impeller to evaluate system behavior.
+-	Created a video presenting the system’s operations and our findings, including modeling the flow using Navier-Stokes equations and how
+-	 the system would change with variations in fluid
+properties.
+**Contributions:**
+- Took system measurements such as impeller length and wheel diameter.
+- Used approximations for impeller such as thin-walled, flat plate area, and incompressible/mean averaged/Reynold’s averaged flow to simplify calculations (see Appendix – Bicycle Trainer).
+- Compared viscosity of oil to other liquids such as 
+water and honey to understand why the 
+silicone-based oil is the most efficient.
+**Skills Used:**
+- CFD concepts, kinematics/dynamics, approximation methods, data collection.
