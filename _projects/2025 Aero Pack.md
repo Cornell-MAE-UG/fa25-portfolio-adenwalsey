@@ -28,8 +28,9 @@ image: /assets/images/aero 2.png
 - Fit common cycling tools.
 - Be fully manufacturable via desktop FDM 3D printing.
 
+![Photo of back]({{ "/assets/images/aero cad 1.png" | relative_url }}){: style="width: 80%"}
+
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="{{ '/assets/images/aero cad 1.png' | relative_url }}" style="width: 30%;">
   <img src="{{ '/assets/images/aero cad 2.png' | relative_url }}" style="width: 30%;">
   <img src="{{ '/assets/images/aero cad 3.png' | relative_url }}" style="width: 30%;">
 </div>
@@ -53,70 +54,3 @@ image: /assets/images/aero 2.png
 ### Next Steps
 - Conduct CFD analysis to confirm drag reduction, evaluate flow separation, and identify downstream wake region.
 - Consider alternative slicing configuration to reduce stress concentrations and mitigate printing failures.
-
-
-
-
-
-
-
----
-
-<br>
-
-### Calculations:
-<br>
-
-##### Engineering Models
-- Incompressible flow  
-- Mean averaged flow  
-- Reynold's averaged flow  
-
-
-##### Shaft Speed and Reynolds Number Estimation
-Ratio of wheel diameter to shaft diameter: $R_D$
-
-$$
-R_D = \frac{D_B}{D_S} = \frac{25.5''}{0.353''}
-$$
-
-$$
-\omega_s = R_D(\omega_w)
-$$
-
-$$
-\omega_s \approx 1210~\text{rad/s}
-$$
-
-$$
-Re = \frac{\rho \, \omega_s \, D^2}{\mu}
-$$
-
-$$
-Re = 47{,}342 \rightarrow \text{Turbulent}
-$$
-
-
-##### Drag Force Estimation
-
-$$
-C_D = \frac{F_D}{\tfrac{1}{2}\rho u^2 A}
-$$
-
-$$
-F_D = \tfrac{1}{2}\rho (\omega R)^2 A C_D
-$$
-
-CD for flat plate $\perp$ to flow = 1.98
-
-$$
-F_D = 203~\text{N}
-$$
-
-$$
-F_{D\text{total}} = 203 \times 6
-$$
-
-$$
-F_{D\text{total}} \approx 1220~\text{N} = 274~\text{lbf}
-$$
