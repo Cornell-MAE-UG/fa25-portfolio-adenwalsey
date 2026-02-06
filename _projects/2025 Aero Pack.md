@@ -52,6 +52,8 @@ image: /assets/images/aero 2.png
   <img src="{{ '/assets/images/aero 4.png' | relative_url }}" style="width: 40%;">
   <img src="{{ '/assets/images/aero 3.png' | relative_url }}" style="width: 40%;">
 </div>
+<br> 
+
 ### Next Steps
 - Conduct CFD analysis to confirm drag reduction, evaluate flow separation, and identify downstream wake region.
 - Consider alternative slicing configuration to reduce stress concentrations and mitigate printing failures.
