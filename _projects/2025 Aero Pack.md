@@ -28,11 +28,9 @@ image: /assets/images/aero 2.png
 - Fit common cycling tools.
 - Be fully manufacturable via desktop FDM 3D printing.
 
-![Photo of back]({{ "/assets/images/aero cad 1.png" | relative_url }}){: style="width: 80%"}
-
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="{{ '/assets/images/aero cad 2.png' | relative_url }}" style="width: 40%;">
-  <img src="{{ '/assets/images/aero cad 3.png' | relative_url }}" style="width: 40%;">
+  <img src="{{ '/assets/images/aero cad 4.png' | relative_url }}" style="width: 40%;">
 </div>
 
 ### Key Design Features
@@ -44,7 +42,7 @@ image: /assets/images/aero 2.png
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="{{ '/assets/images/aero 1.png' | relative_url }}" style="width: 40%;">
-  <img src="{{ '/assets/images/aero 4.png' | relative_url }}" style="width: 40%;">
+  <img src="{{ '/assets/images/aero 3.png' | relative_url }}" style="width: 40%;">
 </div>
 
 ### Outcomes:
