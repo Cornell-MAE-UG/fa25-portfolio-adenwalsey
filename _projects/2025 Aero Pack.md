@@ -28,9 +28,9 @@ image: /assets/images/aero 2.png
 - Be fully manufacturable via desktop FDM 3D printing.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="{{ '/assets/images/aero cad 1.png' | relative_url }}" style="width: 20%;">
-  <img src="{{ '/assets/images/aero cad 2.png' | relative_url }}" style="width: 20%;">
-  <img src="{{ '/assets/images/aero cad 3.png' | relative_url }}" style="width: 20%;">
+  <img src="{{ '/assets/images/aero cad 1.png' | relative_url }}" style="width: 30%;">
+  <img src="{{ '/assets/images/aero cad 2.png' | relative_url }}" style="width: 30%;">
+  <img src="{{ '/assets/images/aero cad 3.png' | relative_url }}" style="width: 30%;">
 </div>
 
 ### Key Design Features
