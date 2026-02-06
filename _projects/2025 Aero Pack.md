@@ -31,8 +31,8 @@ image: /assets/images/aero 2.png
 ![Photo of back]({{ "/assets/images/aero cad 1.png" | relative_url }}){: style="width: 80%"}
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="{{ '/assets/images/aero cad 2.png' | relative_url }}" style="width: 30%;">
-  <img src="{{ '/assets/images/aero cad 3.png' | relative_url }}" style="width: 30%;">
+  <img src="{{ '/assets/images/aero cad 2.png' | relative_url }}" style="width: 40%;">
+  <img src="{{ '/assets/images/aero cad 3.png' | relative_url }}" style="width: 40%;">
 </div>
 
 ### Key Design Features
@@ -42,7 +42,10 @@ image: /assets/images/aero 2.png
 - Smooth exterior surfaces with controlled fillets to reduce stress concentrations and drag.
 - Modular interface allowing light removal independent of the bag.
 
-
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="{{ '/assets/images/aero 1.png' | relative_url }}" style="width: 40%;">
+  <img src="{{ '/assets/images/aero 4.png' | relative_url }}" style="width: 40%;">
+</div>
 
 ### Outcomes:
 -	Successfully produced a functional, lightweight saddle bag prototype.
