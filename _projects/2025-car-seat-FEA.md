@@ -17,7 +17,7 @@ image: /assets/images/everseat.png
 <br>
 
 ### Objective
-The primary objective of the EverSeat was to safely restrain and protect children in vehicles from approximately six months through twelve years old using a single, adaptive system. Unlike traditional car seats that must be replaced multiple times as a child grows, the EverSeat was designed to evolve through modular reconfigurations, replacing the typical cycle of three to four seats with one long-term product. Additional objectives included improving caregiver accessibility through one-handed adjustments, enhancing comfort and ergonomic support across all age ranges, simplifying installation to reduce misuse, and reducing environmental waste by minimizing material replacement over the product’s lifespan.
+The primary objective of my capstone project, the EverSeat, was to safely restrain and protect children in vehicles from approximately six months through twelve years old using a single, adaptive system. Unlike traditional car seats that must be replaced multiple times as a child grows, the EverSeat was designed to evolve through modular reconfigurations, replacing the typical cycle of three to four seats with one long-term product. Additional objectives included improving caregiver accessibility through one-handed adjustments, enhancing comfort and ergonomic support across all age ranges, simplifying installation to reduce misuse, and reducing environmental waste by minimizing material replacement over the product’s lifespan.
 
  ![Photo of phases]({{ "/assets/images/everseatphases.png" | relative_url }}){: style="width: 100%"}
 
