@@ -18,11 +18,6 @@ image: /assets/images/feacolor.png
 ### Objective: 
 - Conduct Finite Element Analysis (FEA) on a load cell to evaluate stress, strain, and deflection under applied loads.
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### Outcomes:
 - Modeled load cell geometry in Fusion 360 and used ANSYS to perform FEA simulation.

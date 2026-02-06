@@ -18,9 +18,6 @@ image: /assets/images/trainer.png
 ### Objective: 
 -	Dissect a system with a fluid mechanical component and understand how it works based on concepts learned from Fluid Mechanics course at Cornell University.
 <br>
-<br>
-<br>
-<br>
 
 ### Outcomes:
 -	Dissected and analyzed fluid mechanics of the impeller in a stationary bicycle trainer housed in silicone-based oil.
