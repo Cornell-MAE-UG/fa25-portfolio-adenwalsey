@@ -32,6 +32,7 @@ image: /assets/images/aero 2.png
   <img src="{{ '/assets/images/aero cad 2.png' | relative_url }}" style="width: 40%;">
   <img src="{{ '/assets/images/aero cad 4.png' | relative_url }}" style="width: 40%;">
 </div>
+<br>
 
 ### Key Design Features
 - Streamlined and tapered housing to reduce flow separation behind the saddle.
