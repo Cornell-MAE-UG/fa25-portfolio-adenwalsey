@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Trainer Dissection
+title: Bike Trainer Dissection
 description: Class project with Graphs
 technologies: [CFD concepts, kinematics/dynamics, approximation methods, data collection.]
 image: /assets/images/trainer.png

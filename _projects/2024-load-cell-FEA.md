@@ -3,11 +3,43 @@ layout: project
 title: Load Cell FEA Study
 description: Just a spaceship that I designed
 technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/feacolor.png
 ---
 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+### Objective: 
+- Conduct Finite Element Analysis (FEA) on a load cell to evaluate stress, strain, and deflection under applied loads.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+### Outcomes:
+- Modeled load cell geometry in Fusion 360 and used ANSYS to perform FEA simulation.
+- Verified FEA results by comparing maximum normal stress, deflection, and strain at gauge locations versus hand calculations.
+- Evaluated the factor of safety for strength, fatigue, and crack growth to assess structural integrity.
+<br>
+![Photo of feacad]({{ "/assets/images/feacad.png" | relative_url }}){: style="width: 100%"}
 
+### Contributions:
+- Wrote hand calculations and 
+theoretical analysis to benchmark results (see code below).
+- Created stress and strain contour plots
+to visualize load distribution.
+- Selected material based on 
+properties to fit load cell criteria of yield 
+strength and fracture toughness.
+
+![Photo of fea princ stress]({{ "/assets/images/feaprincipalstress.png" | relative_url }}){: style="width: 100%"}
+
+![Photo of fea defl]({{ "/assets/images/feadeflection.png" | relative_url }}){: style="width: 100%"}
+
+<br>
+
+##### Calculations
+
+
+
+![Photo of calcs]({{ "/assets/images/feacode.png" | relative_url }}){: style="width: 80%"}
