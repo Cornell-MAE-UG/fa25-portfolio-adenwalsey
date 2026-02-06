@@ -3,72 +3,90 @@ layout: default
 title: Aden Walsey - CV
 permalink: /cv/
 ---
+
 ## Curriculum Vitae
 
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
-
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
-
----
-
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+**Email:** [amw394@cornell.edu](mailto:amw394@cornell.edu)  
+**Phone:** +1 (650) 804-3891  
+**Location:** Ithaca, NY  
+**LinkedIn:** [linkedin.com/in/aden-walsey-ba1584159](https://www.linkedin.com/in/aden-walsey-ba1584159)
 
 ---
 
 #### Education
-- **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+- **Cornell University, College of Engineering**  
+  *Master of Engineering in Mechanical Engineering (Design Focus)*  
+  Expected Graduation: December 2026  
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **Cornell University, College of Engineering**  
+  *Bachelor of Science in Mechanical Engineering*  
+  GPA: 3.37 / 4.0 | Dean’s List  
+  Expected Graduation: May 2026  
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **CAD & Simulation:** SolidWorks, Autodesk Fusion 360, ANSYS (FEA & CFD)  
+- **Analysis & Programming:** MATLAB, Simulink, Python, R  
+- **Manufacturing & DFM:** CNC Machining, 3D Printing, Rapid Prototyping, GD&T, DFM/DFA, Lean Manufacturing  
+- **Engineering Methods:** DFMEA, QFD, ASTM Procedures, Statistics, Linear Algebra  
+- **Tools & Software:** Excel, PowerPoint, Adobe Creative Suite (Photoshop, Illustrator)
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Child Restraint System Capstone Project** — Cornell University  
+  *Advisor: Marty Murtagh | Fall 2025*  
+  - Led mechanical design of a modular, multi-stage child car seat platform in Fusion 360, reducing part count and enabling component reuse across age ranges.  
+  - Translated user and safety requirements into engineering targets using QFD and DFMEA to guide material selection and structural layout.  
+  - Validated structural performance using ANSYS under FMVSS 213 frontal crash load cases, achieving acceptable factors of safety with system weight under 20 lbs and 48% improved lifecycle sustainability.
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Load Cell Finite Element Analysis** — Cornell University  
+  *Advisor: Alan Zehnder | Fall 2024*  
+  - Modeled a ring-shaped load cell with strain gauges and evaluated stress, strain, and deflection using ANSYS.  
+  - Iterated design parameters to maximize voltage output while maintaining required safety factors.  
+  - Validated simulation results with hand calculations to confirm accuracy.
+
+- **Bicycle Chain Cleaner & Lubricator** — Cornell University  
+  *Mechanical Synthesis Course | Spring 2024*  
+  - Collaborated on the design of an affordable, user-friendly bicycle chain cleaning system.  
+  - Designed a multi-chamber housing with variable orifices in Fusion 360 to control fluid flow rate over the chain.
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Manufacturing Engineer Intern — Mainspring Energy**  
+  *Menlo Park, CA | Summer 2025*  
+  - Designed, assembled, and validated a pneumatic jaw tooling jig to remove copper wire insulation and activate bond coat via electrical current, reducing stator manufacturing process time by 60%.  
+  - Devised and executed qualification tests for injection-molded shipping crates under simulated shipping conditions to verify structural robustness and safety factors.  
+  - Conducted Gage R&R studies for eddy current sensors to quantify repeatability and reproducibility prior to stator shipment.
+
+- **R&D Engineer Intern — Neodyne Biosciences, Inc.**  
+  *Fremont, CA | Summer 2024*  
+  - Performed tolerance analyses to improve manufacturability and simplify assembly, producing detailed SolidWorks drawings for manufacturing.  
+  - Developed and implemented adhesion test methods, reducing defective products by over 70%.  
+  - Evaluated low-tack liner materials to ensure compatibility with automated production equipment.
+
+- **Robotics Teacher — Pinewood School**  
+  *Los Altos, CA | Summer 2023*  
+  - Taught students to design, build, and program robotics systems, emphasizing engineering fundamentals and problem-solving skills.
 
 ---
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+#### Achievements & Leadership
+- Second Team All-Ivy — Cornell Varsity Lightweight Rowing (2025)  
+- EARC Sprints — 2nd Place, 1V8+ (2025)  
+- Head of the Charles — 1st Place, 1V4+ (2023)  
+- Member, Cornell Big Red Leadership Institute  
 
 ---
 
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+#### Extracurricular Activities & Interests
+Cycling, running, backpacking, cooking, motorsport, drawing, Hi-Fi audio systems, furniture design, film photography.
 
 ---
 
 #### References
 Available upon request.
-
----
