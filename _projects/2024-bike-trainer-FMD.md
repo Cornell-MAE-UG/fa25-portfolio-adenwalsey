@@ -5,7 +5,15 @@ description: Class project with Graphs
 technologies: [CFD concepts, kinematics/dynamics, approximation methods, data collection.]
 image: /assets/images/trainer.png
 ---
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Objective: 
 -	Dissect a system with a fluid mechanical component and understand how it works based on concepts learned from Fluid Mechanics course at Cornell University.
@@ -30,7 +38,6 @@ water and honey to understand why the
 silicone-based oil is the most efficient.
 
 
-**Watch the video [here](https://www.youtube.com/watch?v=3kCTp2EfOSo)!**
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">

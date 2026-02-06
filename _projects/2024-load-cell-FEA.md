@@ -5,7 +5,15 @@ description: Just a spaceship that I designed
 technologies: [SolidWorks, Machining]
 image: /assets/images/feacolor.png
 ---
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Objective: 
 - Conduct Finite Element Analysis (FEA) on a load cell to evaluate stress, strain, and deflection under applied loads.

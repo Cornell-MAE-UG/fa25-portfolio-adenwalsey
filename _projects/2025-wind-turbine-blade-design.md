@@ -5,7 +5,17 @@ description: Advanced CAD Project
 technologies: [Autodesk Fusion, MATLAB]
 image: /assets/images/4272bladedesign.jpg 
 ---
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+### Objective
 As part of MAE 4272: Fluids and Heat Transfer Laboratory course, my team was tasked with designing a wind turbine blade capable of maximizing power output under fixed wind tunnel operating conditions. We were constrained by a 6-inch blade length, a prescribed hub geometry, and a material flexural strength limit of 55 MPa for Accura PLA. The design also needed to remain structurally stable below the system’s maximum safe rotational speed of ~2000 RPM. Our goal was to optimize aerodynamic performance while ensuring that the blade would not enter unsafe free-spin conditions during operation. 
 <br>
 <br>
