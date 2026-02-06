@@ -18,6 +18,7 @@ image: /assets/images/aero 2.png
 ### Objective: 
 -	Design and fabricate a lightweight, aerodynamic saddle bag that integrates cleanly with a Canyon Ultimate seatpost, minimizes drag, and securely carries essential ride items using a custom CAD model and 3D-printed prototype.
 <br>
+![Photo on bike]({{ "/assets/images/aero 1.png" | relative_url }}){: style="width: 80%"}
 
 ### Design Requirements
 - Minimize frontal and side projected area behind the seatpost.
@@ -58,13 +59,6 @@ image: /assets/images/aero 2.png
 
 
 
-
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="{{ '/assets/images/cracking.png' | relative_url }}" style="width: 40%;">
-  <img src="{{ '/assets/images/impeller.png' | relative_url }}" style="width: 40%;">
-</div>
-<br>
 
 ---
 
