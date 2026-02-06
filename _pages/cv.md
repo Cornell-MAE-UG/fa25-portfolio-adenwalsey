@@ -17,12 +17,12 @@ permalink: /cv/
 
 #### Education
 - **Cornell University, College of Engineering**  
-  *Master of Engineering in Mechanical Engineering (Design Focus)*  
+  *Master of Engineering in Mechanical Engineering*  
   Expected Graduation: December 2026  
 
 - **Cornell University, College of Engineering**  
   *Bachelor of Science in Mechanical Engineering*  
-  GPA: 3.37 / 4.0 | Dean’s List  
+  GPA: 3.37 / 4.0 | Dean’s List | Varsity Rowing
   Expected Graduation: May 2026  
 
 ---
@@ -30,9 +30,8 @@ permalink: /cv/
 #### Skills
 - **CAD & Simulation:** SolidWorks, Autodesk Fusion 360, ANSYS (FEA & CFD)  
 - **Analysis & Programming:** MATLAB, Simulink, Python, R  
-- **Manufacturing & DFM:** CNC Machining, 3D Printing, Rapid Prototyping, GD&T, DFM/DFA, Lean Manufacturing  
-- **Engineering Methods:** DFMEA, QFD, ASTM Procedures, Statistics, Linear Algebra  
-- **Tools & Software:** Excel, PowerPoint, Adobe Creative Suite (Photoshop, Illustrator)
+- **Manufacturing & DFM:** CNC Machining, 3D Printing, Rapid Prototyping, GD&T, DFM/DFA, Lean Manufacturing   
+- **Other Tools & Software:** Excel, PowerPoint, Adobe Creative Suite (Photoshop, Illustrator, etc.)
 
 ---
 
@@ -83,7 +82,7 @@ permalink: /cv/
 
 ---
 
-#### Extracurricular Activities & Interests
+#### Interests
 Cycling, running, backpacking, cooking, motorsport, drawing, Hi-Fi audio systems, furniture design, film photography.
 
 ---
