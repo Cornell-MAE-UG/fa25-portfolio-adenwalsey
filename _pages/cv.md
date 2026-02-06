@@ -23,6 +23,7 @@ permalink: /cv/
 - **Cornell University, College of Engineering**  
   *Bachelor of Science in Mechanical Engineering*  
   GPA: 3.37 / 4.0 | Dean’s List | Varsity Rowing
+  <br>
   Expected Graduation: May 2026  
 
 ---
